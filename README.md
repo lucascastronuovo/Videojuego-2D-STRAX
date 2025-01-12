@@ -6,7 +6,7 @@
 
 Puedes probar el juego directamente desde tu navegador utilizando el siguiente enlace:
 
-🔗 **[Jugar 2D Shooter Game]([https://<tu-nombre-de-usuario>.github.io/<nombre-del-repositorio>/](https://lucascastronuovo.github.io/Videojuego-2D-STRAX/))**
+🔗 **[Jugar 2D Shooter Game](https://lucascastronuovo.github.io/Videojuego-2D-STRAX/)**
 
 > Asegúrate de usar un navegador compatible con WebGL para la mejor experiencia.
 
