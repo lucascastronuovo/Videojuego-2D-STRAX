@@ -34,9 +34,7 @@ Puedes probar el juego directamente desde tu navegador utilizando el siguiente e
 
 - **Motor de Juego**: [Unity](https://unity.com/) con exportación a WebGL.
 - **Lenguaje de Programación**: C#.
-- **Diseño Gráfico**: Sprites personalizados.
-
----
+- **Diseño Gráfico**: Sprites personalizados y del sitio web de Unity.
 
 
 
