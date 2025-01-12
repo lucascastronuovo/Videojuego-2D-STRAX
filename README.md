@@ -1,6 +1,6 @@
 # 2D Shooter Game
 
-¡Bienvenido a **2D Shooter Game**! Este es un proyecto de videojuego desarrollado como parte de mi aprendizaje en diseño y desarrollo de videojuegos. Es un juego estilo shooter en 2D donde los jugadores deben esquivar enemigos y acumular puntos.
+¡Bienvenido a **2D Shooter Game**! Este es un proyecto de videojuego desarrollado como parte de mi aprendizaje en diseño y desarrollo de videojuegos. Es un juego estilo shooter en 2D donde los jugadores deben esquivar enemigos, derrotarlos y subir de niveles.
 
 ## 🕹️ Juega Ahora
 
