@@ -38,13 +38,6 @@ Puedes probar el juego directamente desde tu navegador utilizando el siguiente e
 
 ---
 
-## 📜 Cómo Implementar el Proyecto
-
-Si deseas explorar o modificar el proyecto, sigue estos pasos:
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/<tu-nombre-de-usuario>/<nombre-del-repositorio>.git
 
 
 
